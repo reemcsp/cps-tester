@@ -1,0 +1,26 @@
+@import '~antd/dist/antd.css';
+
+#title {
+    padding-top: 35px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#timer {
+    font-size: 60px;
+    padding-top: 60px;
+}
+#result {
+    font-size: 17px;
+    margin-top: auto;
+    bottom: 0;
+    font-size: 22px !important;
+    padding-bottom: 25px;
+}
+#page {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

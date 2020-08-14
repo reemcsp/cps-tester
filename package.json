@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ant-design-pro": "^2.3.2",
     "antd": "^4.5.1",
     "cra-template": "1.0.3",
     "react": "^16.13.1",
